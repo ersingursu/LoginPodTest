@@ -1,0 +1,22 @@
+{
+  "name": "LoginPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of LoginPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ersingursu@gmail.com/LoginPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ersingursu@gmail.com": "ersin.gursu@softtechgrage.com"
+  },
+  "source": {
+    "git": "https://github.com/ersingursu@gmail.com/LoginPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LoginPodTest/Classes/**/*"
+}

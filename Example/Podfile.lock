@@ -1,0 +1,16 @@
+PODS:
+  - LoginPodTest (0.1.0)
+
+DEPENDENCIES:
+  - LoginPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  LoginPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoginPodTest: ae2bcad69b5f8ade3c441d920e0819043e535e1e
+
+PODFILE CHECKSUM: 68501c18ef29dad3449ed9b7545fb98246c4e26a
+
+COCOAPODS: 1.5.3
