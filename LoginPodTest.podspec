@@ -30,9 +30,9 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Classes/**/*'
   s.swift_version = '4.2'
-  s.resource_bundles = {
-    'LoginPodTest' => ['LoginPodTest/Assets/*.png']
-  }
+  #s.resource_bundles = {
+  #  'LoginPodTest' => ['LoginPodTest/Assets/*.png']
+  #}
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
